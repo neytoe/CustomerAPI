@@ -1,0 +1,11 @@
+C:\Users\hp\source\repos\NadTech\NadTech.Core\bin\Debug\net5.0\NadTech.Core.deps.json
+C:\Users\hp\source\repos\NadTech\NadTech.Core\bin\Debug\net5.0\NadTech.Core.dll
+C:\Users\hp\source\repos\NadTech\NadTech.Core\bin\Debug\net5.0\ref\NadTech.Core.dll
+C:\Users\hp\source\repos\NadTech\NadTech.Core\bin\Debug\net5.0\NadTech.Core.pdb
+C:\Users\hp\source\repos\NadTech\NadTech.Core\obj\Debug\net5.0\NadTech.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\NadTech\NadTech.Core\obj\Debug\net5.0\NadTech.Core.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\NadTech\NadTech.Core\obj\Debug\net5.0\NadTech.Core.AssemblyInfo.cs
+C:\Users\hp\source\repos\NadTech\NadTech.Core\obj\Debug\net5.0\NadTech.Core.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\NadTech\NadTech.Core\obj\Debug\net5.0\NadTech.Core.dll
+C:\Users\hp\source\repos\NadTech\NadTech.Core\obj\Debug\net5.0\ref\NadTech.Core.dll
+C:\Users\hp\source\repos\NadTech\NadTech.Core\obj\Debug\net5.0\NadTech.Core.pdb
